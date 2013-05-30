@@ -1,0 +1,12 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+.flickr {
+  text-align: center;
+}
+.flickr img {
+  border: 3px solid #fff;
+  margin: 10px;
+  margin-left: -15px;
+  border-radius: 5px;
+}

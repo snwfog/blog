@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MEDataItemDisplayName</key>
+	<string>Octopress + MarsEdit = OctoMars</string>
+	<key>MEDataItemURLStringForBrowserViewing</key>
+	<string>http://blog.charlescy.com</string>
+	<key>MEDataItemUUID</key>
+	<string>FA7E807A-75D0-4FAB-AEFA-F92700FD065A</string>
+	<key>MEPostTags</key>
+	<string></string>
+	<key>cargoKind</key>
+	<string>Post</string>
+	<key>categoryTerms</key>
+	<array/>
+	<key>conversationText</key>
+	<string></string>
+	<key>createdFromPublishedPost</key>
+	<false/>
+	<key>custom_fields</key>
+	<array/>
+	<key>description</key>
+	<string></string>
+	<key>flNotOnHomePage</key>
+	<false/>
+	<key>link</key>
+	<string></string>
+	<key>localCreationDate</key>
+	<date>2013-05-30T02:06:20Z</date>
+	<key>mt_allow_comments</key>
+	<integer>1</integer>
+	<key>mt_allow_pings</key>
+	<false/>
+	<key>mt_convert_breaks</key>
+	<string>0</string>
+	<key>mt_excerpt</key>
+	<string></string>
+	<key>mt_keywords</key>
+	<string></string>
+	<key>mt_text_more</key>
+	<string></string>
+	<key>postuuid</key>
+	<string>FA7E807A-75D0-4FAB-AEFA-F92700FD065A</string>
+	<key>publishStatus</key>
+	<string>Published</string>
+	<key>slug</key>
+	<string></string>
+	<key>title</key>
+	<string>Octopress + MarsEdit = OctoMars</string>
+	<key>weblogName</key>
+	<string>Charles Yang</string>
+	<key>weblogUUID</key>
+	<string>190A36A9-9CB3-40FA-A08F-F58D2DA1DBB7</string>
+</dict>
+</plist>
